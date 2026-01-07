@@ -69,5 +69,5 @@ This separation improves **maintainability, scalability, and code readability**.
 ---
 
 ## 📄 Academic Context
-This project was developed exclusively for academic purposes as part of the **Software Engineering** course at **ISPTEC**.
+This project was developed exclusively for academic purposes as part of the **Software Engineering** at **ISPTEC**.
 
